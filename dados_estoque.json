@@ -3,35 +3,42 @@
     "codigo": "001",
     "nome": "Caderno Universitario 200 folhas",
     "categoria": "Papelaria",
-    "preco": 24.90,
-    "quantidade": 45
+    "preco": 24.9,
+    "quantidade": 43
   },
   {
     "codigo": "002",
     "nome": "Caneta Esferografica Azul",
     "categoria": "Papelaria",
-    "preco": 2.50,
+    "preco": 2.5,
     "quantidade": 3
   },
   {
     "codigo": "003",
     "nome": "Mochila Escolar 40L",
     "categoria": "Acessorios",
-    "preco": 149.90,
+    "preco": 149.9,
     "quantidade": 12
   },
   {
     "codigo": "004",
     "nome": "Calculadora Cientifica",
     "categoria": "Eletronicos",
-    "preco": 89.00,
+    "preco": 89.0,
     "quantidade": 8
   },
   {
     "codigo": "005",
     "nome": "Livro Python para Iniciantes",
     "categoria": "Livros",
-    "preco": 59.90,
+    "preco": 59.9,
     "quantidade": 2
+  },
+  {
+    "codigo": "006",
+    "nome": "Garrafa Termica",
+    "categoria": "Utensilios",
+    "preco": 39.99,
+    "quantidade": 5
   }
 ]
