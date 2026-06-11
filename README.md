@@ -1,6 +1,7 @@
 # Sistema de Estoque e Vendas
 
 **Disciplina:** Estruturas de Dados
+
 **Grupo:** Ana Luisa, Beatriz Gonçalves, Camila Santos, Thiago Lima, Julia Santos
 
 ---
